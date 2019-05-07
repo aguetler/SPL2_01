@@ -16,7 +16,11 @@
 - [x] Skinbuilder
 - [x] Fabs2301
 - [x] Tennisprofi
-- [ ] JimmyZ31
-- [ ] MahirHamit
-- [ ] MuratsBoerek
-- [ ] Aviva-Corcovado
+- [x] JimmyZ31
+- [x] MahirHamit
+- [x] MuratsBoerek
+- [x] Aviva-Corcovado
+
+### Aufgabe 2: Lokales Repository (auf Workstation/Laptop) anlegen
+* init
+*  
