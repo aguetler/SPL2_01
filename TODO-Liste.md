@@ -12,4 +12,11 @@
 - [ ] erste Schritte mit python
 - [ ] programmieren mit python
 
-
+### Aufgabe 1: HelloWorld-Git-Tutorial
+- [x] Skinbuilder
+- [x] Fabs2301
+- [x] Tennisprofi
+- [ ] JimmyZ31
+- [ ] MahirHamit
+- [ ] MuratsBoerek
+- [ ] Aviva-Corcovado
