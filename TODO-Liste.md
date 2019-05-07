@@ -23,4 +23,11 @@
 
 ### Aufgabe 2: Lokales Repository (auf Workstation/Laptop) anlegen
 * init
-*  
+* add, commit, push, pull
+
+### Aufgabe 3: Erzeugen der Primzahlen von 1 bis 1000
+* Verwenden von Schleifen
+* Verwenden von Abfragen
+* Modulo-Operator: %
+
+
